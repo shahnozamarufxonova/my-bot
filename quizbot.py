@@ -8,7 +8,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-TOKEN = "8765824197:AAE6wJ2JiqAq6abAwm-j8J0iDMVg1tC18a4"
+TOKEN = "Bot_token"
 
 letters = ["A", "B", "C", "D"]
 
